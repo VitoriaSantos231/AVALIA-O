@@ -1,15 +1,15 @@
 /* Define o estilo global da página */
 body {
     font-family: 'Roboto', sans-serif;
-    color: #333;
-    background-color: #F9DBBA; /* Cor de fundo clara */
+    color: #3d3737;
+    background-color: #f9dbba; /* Cor de fundo clara */
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #5B99C2; /* Cor de fundo do cabeçalho */
-    color: #fff; /* Cor da fonte do cabeçalho */
+    background-color: #5492bb; /* Cor de fundo do cabeçalho */
+    color:#1F316F; /* Cor da fonte do cabeçalho */
     padding: 20px;
     text-align: center;
 }
@@ -39,8 +39,8 @@ img {
 }
 
 footer {
-    background-color: #1A4870; /* Cor de fundo do rodapé */
-    color: #fff; /* Cor da fonte do rodapé */
+    background-color: #1c507e; /* Cor de fundo do rodapé */
+    color: #4f63bb; /* Cor da fonte do rodapé */
     text-align: center;
     padding: 10px;
     position: fixed;
