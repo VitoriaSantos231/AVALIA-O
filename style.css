@@ -1,0 +1,49 @@
+/* Define o estilo global da página */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    background-color: #F9DBBA; /* Cor de fundo clara */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5B99C2; /* Cor de fundo do cabeçalho */
+    color: #fff; /* Cor da fonte do cabeçalho */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+p {
+    margin: 5px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #1A4870; /* Cor de fundo do rodapé */
+    color: #fff; /* Cor da fonte do rodapé */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
